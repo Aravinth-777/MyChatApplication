@@ -1,2 +1,2 @@
 # MyChatApplication
-This is a Chat Application developed using TCP Socket Programming in C# using Visual Studio.
+This is a Desktop Chat Application developed using TCP Socket Programming in C# using Visual Studio.
